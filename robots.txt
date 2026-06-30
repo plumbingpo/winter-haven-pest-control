@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://winterhavenpestcontrolco.com/sitemap.xml
